@@ -1,0 +1,15 @@
+C:\Users\ALEX\Desktop\ДЗ#3\Задача 2\bin\Debug\net7.0\Задача 2.exe
+C:\Users\ALEX\Desktop\ДЗ#3\Задача 2\bin\Debug\net7.0\Задача 2.deps.json
+C:\Users\ALEX\Desktop\ДЗ#3\Задача 2\bin\Debug\net7.0\Задача 2.runtimeconfig.json
+C:\Users\ALEX\Desktop\ДЗ#3\Задача 2\bin\Debug\net7.0\Задача 2.dll
+C:\Users\ALEX\Desktop\ДЗ#3\Задача 2\bin\Debug\net7.0\Задача 2.pdb
+C:\Users\ALEX\Desktop\ДЗ#3\Задача 2\obj\Debug\net7.0\Задача 2.csproj.AssemblyReference.cache
+C:\Users\ALEX\Desktop\ДЗ#3\Задача 2\obj\Debug\net7.0\Задача 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALEX\Desktop\ДЗ#3\Задача 2\obj\Debug\net7.0\Задача 2.AssemblyInfoInputs.cache
+C:\Users\ALEX\Desktop\ДЗ#3\Задача 2\obj\Debug\net7.0\Задача 2.AssemblyInfo.cs
+C:\Users\ALEX\Desktop\ДЗ#3\Задача 2\obj\Debug\net7.0\Задача 2.csproj.CoreCompileInputs.cache
+C:\Users\ALEX\Desktop\ДЗ#3\Задача 2\obj\Debug\net7.0\Задача 2.dll
+C:\Users\ALEX\Desktop\ДЗ#3\Задача 2\obj\Debug\net7.0\refint\Задача 2.dll
+C:\Users\ALEX\Desktop\ДЗ#3\Задача 2\obj\Debug\net7.0\Задача 2.pdb
+C:\Users\ALEX\Desktop\ДЗ#3\Задача 2\obj\Debug\net7.0\Задача 2.genruntimeconfig.cache
+C:\Users\ALEX\Desktop\ДЗ#3\Задача 2\obj\Debug\net7.0\ref\Задача 2.dll
